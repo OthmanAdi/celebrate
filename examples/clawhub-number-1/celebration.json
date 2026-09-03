@@ -1,0 +1,51 @@
+{
+  "$comment": [
+    "Worked example: Planning with Files at #1 on ClawHub Trending, 3 September 2026.",
+    "Stars and forks pulled from the GitHub API on the build date.",
+    "The rank and the 266 downloads are what the captured screenshot shows.",
+    "proof/ is gitignored: raw screenshots are personal. Supply your own capture.",
+    "Rebuild with:  python ../../scripts/render_cards.py --config celebration.json"
+  ],
+
+  "slug": "clawhub-no1",
+
+  "eyebrow": {
+    "brand": "clawhub.ai",
+    "context": "skills · trending"
+  },
+
+  "hero": {
+    "prefix": "#",
+    "value": "1",
+    "tag_top": "trending",
+    "tag_bottom": "on ClawHub"
+  },
+
+  "headline": "Planning with Files",
+  "subtitle": "Persistent file-based planning that keeps AI coding agents on task across crashes, context loss and compaction.",
+  "banner_suffix": "ranked #1",
+
+  "stats": [
+    { "value": "26.612", "mark": "★", "label": "GitHub stars" },
+    { "value": "2.219", "label": "Forks" },
+    { "value": "60+", "label": "Agents supported" },
+    { "value": "Jan 2026", "label": "First commit" }
+  ],
+
+  "proof": {
+    "image": "proof/trending.png",
+    "caption": "clawhub.ai — Skills · Trending",
+    "alt": "ClawHub trending skills, Planning with files ranked first"
+  },
+
+  "person": {
+    "initials": "AA",
+    "name": "Ahmad Othman Ammar Adi",
+    "role": "Senior Applied AI Engineer & Instructor · Berlin",
+    "links": ["clawhub.ai/othmanadi", "github.com/OthmanAdi"]
+  },
+
+  "cta": "Open to senior Applied AI Engineering work",
+
+  "formats": ["x", "linkedin", "square", "story", "email-banner", "linkedin-cover"]
+}

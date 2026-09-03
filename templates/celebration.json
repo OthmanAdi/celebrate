@@ -1,0 +1,64 @@
+{
+  "$comment": [
+    "Template for one celebration. Copy it next to your proof image and edit.",
+    "Only 'headline' is required. Drop any block you do not have.",
+    "Every number here must be verified against a live source before it ships.",
+    "Paths are resolved relative to this file."
+  ],
+
+  "slug": "my-win",
+
+  "eyebrow": {
+    "brand": "example.com",
+    "context": "category · list"
+  },
+
+  "hero": {
+    "prefix": "#",
+    "value": "1",
+    "tag_top": "trending",
+    "tag_bottom": "on Example"
+  },
+
+  "headline": "Project Name",
+  "subtitle": "One sentence on what it does for the people using it. Not what it is.",
+
+  "banner_suffix": "ranked #1",
+
+  "stats": [
+    { "value": "26.612", "mark": "★", "label": "GitHub stars" },
+    { "value": "2.219", "label": "Forks" },
+    { "value": "60+", "label": "Agents supported" },
+    { "value": "Jan 2026", "label": "First commit" }
+  ],
+
+  "proof": {
+    "image": "proof/proof.png",
+    "caption": "example.com — Category · Trending",
+    "alt": "The list showing Project Name in first place"
+  },
+
+  "person": {
+    "initials": "AA",
+    "name": "Your Name",
+    "role": "Your Role · City",
+    "links": ["example.com/you", "github.com/you"]
+  },
+
+  "cta": "Open to senior Applied AI Engineering work",
+
+  "theme": {
+    "bg": "#0a0708",
+    "panel": "#140d0e",
+    "line": "#2a1c1d",
+    "accent": "#ff5a45",
+    "accent_dim": "#b8392a",
+    "ink": "#f6efec",
+    "mute": "#9a8a86",
+    "faint": "#6b5c59",
+    "grid": true,
+    "bloom": true
+  },
+
+  "formats": ["x", "linkedin", "square", "story", "email-banner", "linkedin-cover"]
+}
